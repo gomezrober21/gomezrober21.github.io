@@ -1,0 +1,11 @@
+.additional {
+  display: none;
+}
+
+.additional.hidden {
+  display: none;
+}
+
+.additional.visible {
+  display: inline;
+}
